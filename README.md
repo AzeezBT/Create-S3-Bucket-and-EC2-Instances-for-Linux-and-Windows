@@ -38,8 +38,8 @@ Verify the status of both instances in the EC2 dashboard.</br>
 Connect to the Linux instance using SSH.</br>
 Connect to the Windows instance using RDP.</br>
 
-### REG NUMBER : 212223110046
-### NAME : SHAIK AZEEZ AHAMAD
+## REG NUMBER : 212223110046
+## NAME : SHAIK AZEEZ AHAMAD
 
 # OUTPUT
 
